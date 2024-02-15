@@ -1,0 +1,4 @@
+.idea
+.venv
+invoicing_pdf.egg-info
+invoicing_pdf_phh.egg-info
